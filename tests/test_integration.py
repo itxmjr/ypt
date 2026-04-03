@@ -48,5 +48,5 @@ def test_install_pipeline_calls_components(monkeypatch: pytest.MonkeyPatch) -> N
     monkeypatch.setattr(cli, "LauncherGenerator", FakeLauncher)
     monkeypatch.setattr(cli, "DesktopIntegration", FakeDesktop)
 
-    cli.install(Path("dummy.deb"))
+    cli.install(Path("sample.deb"))
     assert all(called.values())

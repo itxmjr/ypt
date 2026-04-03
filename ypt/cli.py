@@ -194,8 +194,8 @@ def test_browser(force_browser=None):
     browser = detector.find_browser(force_browser)
     print(f"Detected: {browser}")
 
-    print("\nTesting browser launch (opening https://example.com)...")
-    subprocess.Popen([browser, "https://example.com"],
+    print("\nTesting browser launch (opening https://www.netacad.com)...")
+    subprocess.Popen([browser, "https://www.netacad.com"],
                      stdout=subprocess.DEVNULL,
                      stderr=subprocess.DEVNULL)
     print("Browser should have opened (check your browser window).")

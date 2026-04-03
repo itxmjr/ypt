@@ -10,7 +10,7 @@ readme = "README.md"
 license = {text = "MIT"}
 requires-python = ">=3.8"
 authors = [
-    {name = "M Jawad ur Rehman", email = "mjr@example.com"}
+    {name = "M Jawad ur Rehman", email = "itxmjr@gmail.com"}
 ]
 keywords = ["cisco", "packet-tracer", "networking", "appimage", "linux", "installer", "wayland"]
 classifiers = [
@@ -42,9 +42,9 @@ dev = [
 ypt = "ypt.cli:main"
 
 [project.urls]
-Homepage = "https://github.com/mjrehman/ypt"
-Issues = "https://github.com/mjrehman/ypt/issues"
-Source = "https://github.com/mjrehman/ypt"
+Homepage = "https://github.com/itxmjr/ypt"
+Issues = "https://github.com/itxmjr/ypt/issues"
+Source = "https://github.com/itxmjr/ypt"
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]

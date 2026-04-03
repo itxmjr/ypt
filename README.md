@@ -174,8 +174,8 @@ Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for gu
 
 ## 🆘 Support
 
-- **Issues**: [github.com/mjrehman/ypt/issues](https://github.com/mjrehman/ypt/issues)
-- **Source Code**: [github.com/mjrehman/ypt](https://github.com/mjrehman/ypt)
+- **Issues**: [github.com/itxmjr/ypt/issues](https://github.com/itxmjr/ypt/issues)
+- **Source Code**: [github.com/itxmjr/ypt](https://github.com/itxmjr/ypt)
 
 ## 🌟 Star History
 
